@@ -1,0 +1,199 @@
+{
+  "leiloes": [
+    {
+      "id": 1,
+      "produto": "PlayStation 4",
+      "descricao": " PlayStation 4 Slim 1TB - Hits Bundle v4 (Versão Nacional), Estado: semi novo.",
+      "lanceInicial": 1000,
+      "finalizado": false
+    },
+    {
+      "id": 2,
+      "produto": "Notebook Asus",
+      "descricao": "Notebook Asus, i5 16gb ram 1tb hd, Estado: semi novo.",
+      "lanceInicial": 500,
+      "finalizado": true
+    },
+    {
+      "id": 3,
+      "produto": "Samsung Galaxy S21",
+      "descricao": "Galaxy S21 FE 5G (256GB) completo com acessórios, Estado: novo.",
+      "lanceInicial": 500,
+      "finalizado": false
+    },
+    {
+      "produto": "Smart TV Samsung",
+      "descricao": "Smart TV Samsung 43 polegadas UHD 4K Processador Crystal, Estado: semi novo.",
+      "lanceInicial": "500",
+      "finalizado": true,
+      "id": 4
+    },
+    {
+      "produto": "Boné Oakley",
+      "descricao": "Boné Oakley Tincan Camo cor preto, aba curva, Estado: novo",
+      "lanceInicial": "80",
+      "finalizado": false,
+      "id": 5
+    },
+    {
+      "produto": "Iphone 15",
+      "descricao": "Iphone 15 lacrado 256gb com caixa e acessórios, Estado: novo",
+      "lanceInicial": "2000",
+      "finalizado": false,
+      "id": 7
+    },
+    {
+      "produto": "Drone DJI Tello",
+      "descricao": "Drone DJI Tello com câmera FHD branco 2.4GHz 3 baterias, Estado: novo",
+      "lanceInicial": "1200",
+      "finalizado": false,
+      "id": 8
+    }
+  ],
+  "lances": [
+    {
+      "leilao_id": 5,
+      "valor": "123",
+      "data": "2023-12-01T22:27:58.620Z",
+      "id": 13
+    },
+    {
+      "leilao_id": 5,
+      "valor": "222",
+      "data": "2023-12-02T16:45:54.445Z",
+      "id": 19
+    },
+    {
+      "leilao_id": 1,
+      "valor": "1500",
+      "data": "2023-12-08T16:32:16.352Z",
+      "id": 29
+    },
+    {
+      "leilao_id": 2,
+      "valor": "551",
+      "data": "2023-12-08T16:32:26.089Z",
+      "id": 30
+    },
+    {
+      "leilao_id": 3,
+      "valor": "680",
+      "data": "2023-12-08T16:32:40.853Z",
+      "id": 31
+    },
+    {
+      "leilao_id": 4,
+      "valor": "600",
+      "data": "2023-12-08T16:33:22.266Z",
+      "id": 32
+    },
+    {
+      "leilao_id": 7,
+      "valor": "2900",
+      "data": "2023-12-08T16:33:39.060Z",
+      "id": 33
+    },
+    {
+      "leilao_id": 7,
+      "valor": "3400",
+      "data": "2023-12-08T16:38:14.986Z",
+      "id": 34
+    },
+    {
+      "leilao_id": 7,
+      "valor": "3900",
+      "data": "2023-12-08T16:38:23.308Z",
+      "id": 35
+    },
+    {
+      "leilao_id": 7,
+      "valor": "4500",
+      "data": "2023-12-08T16:38:45.842Z",
+      "id": 36
+    },
+    {
+      "leilao_id": 3,
+      "valor": "1200",
+      "data": "2023-12-08T16:39:10.547Z",
+      "id": 37
+    },
+    {
+      "leilao_id": 1,
+      "valor": "1900",
+      "data": "2023-12-08T16:39:20.336Z",
+      "id": 38
+    },
+    {
+      "leilao_id": 2,
+      "valor": "1350",
+      "data": "2023-12-08T16:39:34.802Z",
+      "id": 39
+    },
+    {
+      "leilao_id": 2,
+      "valor": "1890",
+      "data": "2023-12-08T16:39:53.081Z",
+      "id": 40
+    },
+    {
+      "leilao_id": 7,
+      "valor": "5000",
+      "data": "2023-12-08T16:40:06.132Z",
+      "id": 41
+    },
+    {
+      "leilao_id": 3,
+      "valor": "1800",
+      "data": "2023-12-08T16:40:18.626Z",
+      "id": 42
+    },
+    {
+      "leilao_id": 4,
+      "valor": "800",
+      "data": "2023-12-08T16:40:33.185Z",
+      "id": 43
+    },
+    {
+      "leilao_id": 2,
+      "valor": "2100",
+      "data": "2023-12-08T16:40:44.094Z",
+      "id": 44
+    },
+    {
+      "leilao_id": 7,
+      "valor": "5100",
+      "data": "2023-12-08T16:40:57.956Z",
+      "id": 45
+    },
+    {
+      "leilao_id": 1,
+      "valor": "2600",
+      "data": "2023-12-08T16:41:54.475Z",
+      "id": 46
+    },
+    {
+      "leilao_id": 8,
+      "valor": "1500",
+      "data": "2023-12-08T19:42:30.523Z",
+      "id": 47
+    },
+    {
+      "leilao_id": 8,
+      "valor": "1800",
+      "data": "2023-12-08T19:43:25.141Z",
+      "id": 48
+    },
+    {
+      "leilao_id": 8,
+      "valor": "2200",
+      "data": "2023-12-08T19:45:28.889Z",
+      "id": 49
+    },
+    {
+      "leilao_id": 8,
+      "valor": "2500",
+      "data": "2023-12-08T19:46:44.862Z",
+      "id": 50
+    }
+  ]
+}
